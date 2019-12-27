@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es"
 title                    : "Teeccino.mx"
 title_separator          : "-"
 subtitle                 : "Teeccino en Mexico" # site tagline that appears below site title in masthead
