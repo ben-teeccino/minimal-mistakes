@@ -257,6 +257,15 @@ figure {
       width: 100%;
     }
   }
+  
+  &.small_gallery {
+    > a,
+    > img {
+        @include breakpoint ($small) {
+            width: calc(33.3333% - 1em);
+        }
+    }
+  }
 }
 
 /* Figure captions */
