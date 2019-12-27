@@ -279,7 +279,7 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
+  products:
     output: true
     permalink: /:collection/:path/
 
@@ -296,3 +296,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _products
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: single
+      author_profile: false
+      share: true
