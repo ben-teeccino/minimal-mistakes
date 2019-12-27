@@ -9,3 +9,9 @@ product_row:
 header:
   teaser:
 ---
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
