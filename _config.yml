@@ -296,7 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _products
+  # _productos
   - scope:
       path: ""
       type: productos
