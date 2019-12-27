@@ -1,8 +1,9 @@
 ---
-title: Foo Bar Identity
+title: Maca Chocolaté
 excerpt: >-
-  Foo Bar design system including logo mark, website design, and branding
-  applications.
+  Energizing maca root enhances velvety chocolate layered over a lush, dense
+  body from roasted ramón seeds and chicory roots with a hint of heat from
+  chilies.
 feature_row2:
   - image_path: /assets/images/40134_Teeccino_MacaChocolate_10ctTeaBag.jpg
     alt: Maca Chocolaté
