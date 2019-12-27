@@ -299,7 +299,7 @@ defaults:
   # _products
   - scope:
       path: ""
-      type: products
+      type: productos
     values:
       layout: single-product
       author_profile: false
