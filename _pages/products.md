@@ -1,7 +1,7 @@
 ---
-title: Products
+title: Productos
 layout: collection
-permalink: /products/
+permalink: /productos/
 collection: products
 entries_layout: grid
 classes: wide
