@@ -306,4 +306,7 @@ defaults:
       share: true
 
 _options:
-  uploads_dir: "assets/:categories/:year/:month/:day/:title"
+  image: # Front matter field
+    uploads_dir: "assets/front-matter-images/:title"
+  content: # Content Editor and block Editable Regions
+    uploads_dir: "assets/:year/:month/:day/:title"
