@@ -304,8 +304,6 @@ defaults:
       layout: splash
       author_profile: false
       share: true
-      header:
-        teaser: 
 
 _options:
   uploads_dir: "assets/:categories/:year/:month/:day/:title"
