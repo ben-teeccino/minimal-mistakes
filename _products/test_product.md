@@ -4,15 +4,16 @@ excerpt: >-
   Foo Bar design system including logo mark, website design, and branding
   applications.
 feature_row2:
-  - image_path:
-    alt: placeholder image 2
-    title: Placeholder Image Left Aligned
+  - image_path: /assets/images/40134_Teeccino_MacaChocolate_10ctTeaBag.jpg
+    alt: Maca Chocolaté
+    title: Maca Chocolaté 10ct
     excerpt: >-
-      This is some sample content that goes here with **Markdown** formatting.
-      Left aligned with `type="left"`
-    url: '#test-link'
-    btn_label: Read More
-    btn_class: btn--primary
+      Energizing maca root enhances velvety chocolate layered over a lush, dense
+      body from roasted ramón seeds and chicory roots with a hint of heat from
+      chilies.
+    url:
+    btn_label:
+    btn_class:
 ---
 
 <div class="feature__wrapper">
