@@ -1,0 +1,11 @@
+---
+title: 
+excerpt: >-
+product_row:
+  - image_path: /assets/images/40134_Teeccino_MacaChocolate_10ctTeaBag.jpg
+    alt: 
+    title: 
+    excerpt: >-
+header:
+  teaser:
+---
