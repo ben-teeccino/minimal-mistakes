@@ -261,7 +261,7 @@ figure {
   &.small_gallery {
     > a,
     > img {
-        width: calc(33.3333% - 1em);
+        width: 33.3333%;
         @include breakpoint ($small) {
             width: calc(15% - 1em);
         }
