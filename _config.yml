@@ -279,7 +279,7 @@ compress_html:
     envs: development
 
 collections:
-  products:
+  productos:
     output: true
     permalink: /:collection/:path/
 
